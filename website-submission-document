@@ -1,0 +1,32 @@
+Website Submission Document
+
+Website Hyperlink:
+https://jhippler.github.io/DS4200-hw3/
+
+Styling & Customizations:
+- Background color for the body: `#f0f8ff` (light blue for readability).
+- Text color: `#333` (dark gray for contrast).
+- Font: `Arial, sans-serif` for a clean look.
+
+Header Design:
+- Background color: `#4a90e2` (vibrant blue).
+- Text color: White.
+- Centered text with bold formatting.
+- Rounded corners (`border-radius: 12px`).
+
+Navigation Links:
+- White text with bold styling.
+- Links spaced with `margin: 0 10px` for readability.
+
+Section Customizations:
+- White background for each section.
+- Padding (`15px`) and rounded corners for consistency.
+- Box shadow effect for subtle depth (`box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)`).
+
+Footer Design:
+- Light gray background (`#e2e2e2`).
+- Centered text for neatness.
+
+Image Integration:
+- Images sized to `300px` width for clarity and balance.
+
